@@ -1,0 +1,19 @@
+{
+    "name": "meowz",
+    "symbol": "MEOWZ",
+    "description": "A cute meowz token on Solana devnet",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.jpg",
+    "external_url": "https://github.com/husky-696/meowz-token",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.jpg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image",
+        "creators": []
+    }
+}
