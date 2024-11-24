@@ -1,7 +1,7 @@
 {
-    "name": "meowz",
+    "name": "The Wizard Of Meowz",
     "symbol": "MEOWZ",
-    "description": "A cute meowz token on Solana devnet",
+    "description": "A cute and wise wizard with emence power, his adventures have led him here to the solana blockcain ",
     "seller_fee_basis_points": 0,
     "image": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.jpg",
     "external_url": "https://github.com/husky-696/meowz-token",
