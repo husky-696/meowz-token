@@ -3,14 +3,14 @@
     "symbol": "MEOWZ",
     "description": "A cute and wise wizard with emence power, his adventures have led him here to the solana blockcain ",
     "seller_fee_basis_points": 0,
-    "image": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.png",
-    "external_url": "https://github.com/husky-696/meowz-token",
+    "image": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.jpg",
+    "external_url": "",
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.png",
-                "type": "image/png"
+                "uri": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.jpg",
+                "type": "image/jpeg"
             }
         ],
         "category": "image",
