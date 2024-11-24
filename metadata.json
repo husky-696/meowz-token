@@ -10,7 +10,7 @@
         "files": [
             {
                 "uri": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.png",
-                "type": "image/jpeg"
+                "type": "image/png"
             }
         ],
         "category": "image",
