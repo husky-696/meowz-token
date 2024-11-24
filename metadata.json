@@ -2,12 +2,12 @@
     "name": "The Wizard Of Meowz",
     "symbol": "MEOWZ",
     "description": "A cute and wise wizard with emence power, his adventures have led him here to the solana blockcain",
-    "image": "https://raw.githubusercontent.com/husky-696/SCAT/main/meowz.jpg",
+    "image": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowz.jpg",
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/husky-696/SCAT/main/meowz.jpg",
+                "uri": "https://raw.githubusercontent.com/husky-696/ meowz-token/main/meowz.jpg",
                 "type": "image/jpg"
             }
         ]
