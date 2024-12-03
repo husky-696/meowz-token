@@ -1,15 +1,26 @@
 {
     "name": "The Wizard Of Meowz",
     "symbol": "MEOWZ",
-    "description": "A cute and wise wizard with emence power, Whoes adventures have led him here to the solana blockcain",
+    "description": "A cute and wise wizard cat token bringing magic and memes to the Solana blockchain! 🧙‍♂️🐱✨ Mint authority has been removed - supply is forever fixed! 🔒",
     "image": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowzz.png",
-    "attributes": [],
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/husky-696/meowz-token/main/meowzz.png",
-                "type": "image/png"
-            }
-        ]
-    }
+    "token_info": {
+        "decimals": 9,
+        "total_supply": "1000000000",
+        "mint_disabled": true,
+        "supply_fixed": true
+    },
+    "links": {
+        "twitter": "your_twitter",
+        "telegram": "your_telegram_group",
+        "website": "your_website",
+        "discord": "your_discord"
+    },
+    "tags": [
+        "meme",
+        "cat",
+        "wizard",
+        "community",
+        "solana",
+        "fixed-supply"
+    ]
 }
